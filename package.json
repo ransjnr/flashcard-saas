@@ -12,12 +12,17 @@
     "@clerk/nextjs": "^5.3.7",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
+    "@google/generative-ai": "^0.17.1",
     "@mui/material": "^6.0.1",
+    "@mui/styled-engine-sc": "^6.0.1",
     "@stripe/stripe-js": "^4.4.0",
     "firebase": "^10.13.1",
     "next": "14.2.7",
+    "openai": "^4.57.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "stripe": "^16.9.0",
+    "styled-components": "^6.1.13"
   },
   "devDependencies": {
     "eslint": "^8",
